@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shantanu29kumar
 - 👀 I’m interested in Open Source,JAVA,DevOps,Machine learning,Front End Development.
-- 🌱 I’m currently focused on JAVA and DevOps.
+- 🌱 I’m currently focused on JAVA and Data Science.
 - 💞️ I’m looking to collaborate on Open Source projects.
 - 📫 You can reach me on my LinkedIn https://www.linkedin.com/in/shantanu-kumar-61ab00228/ , Twitter https://twitter.com/KumarShantanu29 handles.
 <!---
