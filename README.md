@@ -22,8 +22,7 @@
 
 💻 Proficient in SQL and Python, honing skills since my intermediate years. Actively engaged in hackathons and served as the club coordinator of the Data Science Club at my college, where I lead workshops on ML and SQL.
 
-🤝 Open to collaborations on interesting projects related to AI and ML. Connect with me on LinkedIn or Twitter.
-
+🤝 Open to collaborations on interesting projects related to AI and ML.
 <br></br>
 <br></br>
 
