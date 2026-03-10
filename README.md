@@ -28,7 +28,7 @@
 
 <h2 align="center">🛠️ Technical Skills 🛠️</h2>
 <p align="center"> 
-  <a href="https://github.com/Shantanu29kumar"><a href="https://github.com/Shantanu29kumar"><img src="https://skillicons.dev/icons?i=python,c,java,html,css,mysql,mongodb,tensorflow,flask,pytorch,vscode,replit,eclipse,idea,postman,github,git,pycharm,replit,aws,notion,opencv,sqlite,sklearn"> </a> </p>
+  <a href="https://github.com/Shantanu29kumar"><a href="https://github.com/Shantanu29kumar"><img src="https://skillicons.dev/icons?i=python,c,java,html,css,mysql,mongodb,tensorflow,flask,pytorch,vscode,replit,eclipse,idea,postman,github,git,pycharm,replit,aws,notion,opencv,sqlite,sklearn,django"> </a> </p>
 
 <br></br>
 
